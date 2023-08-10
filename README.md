@@ -76,4 +76,4 @@ Contributions are welcome! If you find any issues or want to enhance the load ba
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-'Disclaimer:' This load balancer is provided for educational purposes and as a starting point for building more robust load balancers. It may not be suitable for production use without further refinement and security considerations.
+Disclaimer: This load balancer is provided for educational purposes and as a starting point for building more robust load balancers. It may not be suitable for production use without further refinement and security considerations.
